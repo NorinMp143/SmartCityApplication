@@ -1,0 +1,15 @@
+                     Jantar Mantar                                                                                 
+                                                                                                                                          
+Tickets Price :-                                                                                                   
+                                                                                                                   
+1.Metro               150/-                                                     
+2.Car                  100/-                                                    
+3.OLA Car            70/-                                                       
+4.Bus                  50/-                                                     
+5.City Bus            20/-                                                      
+6.Riksha              200/-                                                     
+7.Personal Riksa     300/-                                                      
+                                                                                                
+Click To Continue......                                                                                          
+                                                                                                                     
+1.Home                       2.Exit

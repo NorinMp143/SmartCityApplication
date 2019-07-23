@@ -1,0 +1,9 @@
+               Your Account Opened Successfully.                                                                 
+                                                                      
+Your Current Location - Jaipur,Rajasthan.                                         
+Weather - Summer(Hot)                                                          
+Humidity - 22*C                                                                                  
+                                                                                                                                        
+Are You Having -                                                                                                   
+                                                                                                               
+1.Hotel                    2.Tourist Place              3.Exit
