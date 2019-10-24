@@ -1,6 +1,8 @@
 #include<iostream>
 #include<conio.h>
 #include<fstream>
+//here you can replace these lines to one line #include<bits/std++.h>
+
 using namespace std;
 
 class C
